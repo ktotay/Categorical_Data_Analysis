@@ -1,6 +1,7 @@
 # Categorical_Data_Analysis
 Investigation of Cinema Preferences of Hacettepe University Students of Economics, Mathematics and Psychology Departments during the Covid-19 Pandemic Process
-We designed this project with my friends in accordance with categorical data analysis. The preparation of the questionnaire, data collection, analysis and reporting belong to us. We used MS Office Programs, IBM SPSS and R Programming Language for the project.
+
+    We designed this project with my friends in accordance with categorical data analysis. The preparation of the questionnaire, data collection,       analysis and reporting belong to us. We used MS Office Programs, IBM SPSS and R Programming Language for the project.
 
 The most important thing in this project is that there is no code part. Unfortunately, while we were working on this project, the only thing that mattered was the presentation. Therefore, we were not prepared for the coding part.
 
