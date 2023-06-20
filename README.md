@@ -6,7 +6,6 @@ We designed this project with my friends in accordance with categorical data ana
 The most important thing in this project is that there is no code part. Unfortunately, while we were working on this project, the only thing that mattered was the presentation. Therefore, we were not prepared for the coding part.
 
 You can find our presentation and survey form link below:
-
 https://drive.google.com/drive/folders/1FNkgmes3LIySRMTB3Bx6R-25x5ZJ7zmj?usp=drive_link
     
 Finally, I would like to convey my greetings to my group members Hilal Uğur and Kardelen Sakinci. We did this project together!
